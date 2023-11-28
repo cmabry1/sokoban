@@ -1,4 +1,4 @@
-FILE = cs330_sokoban_game
+FILE = cs330_sokoban_game[1]
 CFLAGS = -Wall -g
 
 build: $(FILE).c
